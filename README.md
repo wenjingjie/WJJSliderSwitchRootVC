@@ -4,4 +4,4 @@
 
 ## 效果展示
 
-![](https://github.com/wenjingjie/WJJSliderSwitchRootVC/raw/master/Picture/pic.png)  
+![](https://github.com/wenjingjie/WJJSliderSwitchRootVC/raw/master/Picture/sliderSwitch.gif)  
